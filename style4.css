@@ -1,0 +1,27 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400vh;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(124, 36, 124);
+}
+
+p{
+    font-family: 'Times New Roman';
+    font-size: normal;
+    font-style: italic;
+    color: black;  
+}
+
+h2{
+    font-family: 'Times New Roman';
+    font-size: normal;
+    font-style: normal;
+    color: rgb(145, 89, 145);  
+}
